@@ -26,7 +26,7 @@ I created an access system with the help of an RFID module, I created a python p
 
 ![IMAGE](img/shome1.jpeg)
 
-Database, server and RFID program using docker-composed on a Raspberry PI 4B
+Database, server and RFID program running using docker-composed on a Raspberry PI 4B
 
 ![IMAGE](img/docker.png)
 
@@ -39,7 +39,7 @@ Learning more and more things I brought new functionality to the project, new se
 
 ![IMAGE](img/shomeapp2.jpg)
 
-I also created an interface for the access system, in which we can add new users to the system, we can view user logins, the status of the door with a magnetic sensor and delete users.
+I also created an interface for the access system, in which we can add new users to the system, we can view user logs, the status of the door with a magnetic sensor and we can delete users.
 
 ![IMAGE](img/shomeapp3.jpg)
 
