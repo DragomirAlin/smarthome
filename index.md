@@ -1,4 +1,6 @@
 ## Smart home🏡
+My name is Dragomir Alin, I am a recent graduate of Transylvania University, specializing in Telecommunications Technologies and Systems, this was my bachelor's project.
+
 I developed a miniature smart home, in which I combined software components with hardware. In developing the project I used Node.js, websocket, Ionic, Angular, Swagger, MongoDB, Arduino, Python, Raspberry PI 4B, Docker, sensors, NodeMCU ESP8266 modules, RFID module and many other components.
 
 The smart home has the following functionalities, monitoring of temperature, humidity, gas, soil humidity, air quality, fire and water leak warning, lighting control in each room and air conditioning control. Card or tag based RFID access system with the possibility to add new users to the system in real time and access monitoring.
@@ -54,4 +56,15 @@ I built a miniature house to highlight the functionalities.
 
 This project took the First Place - [Session of Student Scientific Circles 2020](https://iesc.unitbv.ro/%C8%99tiri-%C8%99i-evenimente/470-sesiunea-cercurilor-stiintifice-studentesti-2020.html) at the University of Transylvania, Electrical Engineering and Computer Science, Specialization in Telecommunications Technologies and Systems.
 
+### Future directions
+- Security: data encryption, authentication
+on several levels, HTTPS
+- New sensors: vibration, water level
+- Application standardization: flexibility
+- New features: IP surveillance cameras,
+alarm system
+- Data processing using Kafka Apache and MQTT
+- Migrate backend in Spring Boot
+
+### Contact
 If you want more details about this project contact me at dragomirdanielalin@gmail.com. Thanks
