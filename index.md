@@ -12,6 +12,8 @@ I used four NodeMCU ESP8266 WIFI modules for data transmission, 3 modules were u
 
 I used a NoSQL database to insert data from sensors, a Node.JS server and a program for RFID access developed in python. 
 
+![IMAGE](img/swagger.jpg)
+
 I also developed a mobile application with the help of Ionic, I created a REST consumer with Swagger Editor.
 
 
