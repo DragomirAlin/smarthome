@@ -1,5 +1,5 @@
-## - Smart home🏡
--Hello 🖐! My name is Dragomir Alin, I am a recent graduate of Transylvania University, specializing in Telecommunications Technologies and Systems, this was my bachelor's project.
+## Smart home🏡
+- Hello 🖐! My name is Dragomir Alin, I am a recent graduate of Transylvania University, specializing in Telecommunications Technologies and Systems, this was my bachelor's project.
 
 I developed a miniature smart home, in which I combined software components with hardware. In developing the project I used Node.js, websocket, Ionic, Angular, Swagger, MongoDB, Arduino, Python, Raspberry PI 4B, Docker, sensors, NodeMCU ESP8266 modules, RFID module and many other components.
 
