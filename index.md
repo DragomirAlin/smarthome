@@ -7,7 +7,7 @@ The smart home has the following functionalities, monitoring of temperature, hum
 
 
 I used four NodeMCU ESP8266 WIFI modules for data transmission, 3 modules were used for data transmission from sensors to Node.js server via websocket. The fourth module was used to control lighting and air conditioning.
-![IMAGE](img/diagram1.png)
+![IMAGE](img/diagram1_en.png)
 
 
 I used a NoSQL database to insert data from sensors, a Node.JS server and a program for RFID access developed in python. 
@@ -18,7 +18,7 @@ I also developed a mobile application with the help of Ionic, I created a REST c
 
 
 
-![IMAGE](img/diagram2.png)
+![IMAGE](img/all_en.png)
 
 I also developed the hardware part
 ![IMAGE](img/hardware1.jpg)
