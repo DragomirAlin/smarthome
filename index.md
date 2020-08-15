@@ -1,10 +1,11 @@
 ## Smart home🏡
-Hello 🖐! My name is Dragomir Alin, I am a recent graduate of Transylvania University, specializing in Telecommunications Technologies and Systems, this was my bachelor's project.
+- Hello 🖐! My name is Dragomir Alin, I am a recent graduate of Transylvania University, specializing in Telecommunications Technologies and Systems, this was my bachelor's project.
 
 I developed a miniature smart home, in which I combined software components with hardware. In developing the project I used Node.js, websocket, Ionic, Angular, Swagger, MongoDB, Arduino, Python, Raspberry PI 4B, Docker, sensors, NodeMCU ESP8266 modules, RFID module and many other components.
 
 The smart home has the following functionalities, monitoring of temperature, humidity, gas, soil humidity, air quality, fire and water leak warning, lighting control in each room and air conditioning control. Card or tag based RFID access system with the possibility to add new users to the system in real time and access monitoring.
 
+🏆This project won the First Place - [Session of Student Scientific Circles 2020](https://iesc.unitbv.ro/%C8%99tiri-%C8%99i-evenimente/470-sesiunea-cercurilor-stiintifice-studentesti-2020.html) at the University of Transylvania, Electrical Engineering and Computer Science, Specialization in Telecommunications Technologies and Systems.
 
 I used four NodeMCU ESP8266 WIFI modules for data transmission, 3 modules were used for data transmission from sensors to Node.js server via websocket. The fourth module was used to control lighting and air conditioning.
 ![IMAGE](img/diagram1_en.png)
@@ -54,9 +55,6 @@ I built a miniature house to highlight the functionalities.
 ![IMAGE](img/home2.jpeg)
 ![IMAGE](img/home3.jpeg)
 ![IMAGE](img/home4.jpeg)
-
-
-🏆This project took the First Place - [Session of Student Scientific Circles 2020](https://iesc.unitbv.ro/%C8%99tiri-%C8%99i-evenimente/470-sesiunea-cercurilor-stiintifice-studentesti-2020.html) at the University of Transylvania, Electrical Engineering and Computer Science, Specialization in Telecommunications Technologies and Systems.
 
 ### Future directions 
 - Security: data encryption, authentication
