@@ -56,10 +56,7 @@ I built a miniature house to highlight the functionalities.
 ![IMAGE](img/home3.jpeg)
 ![IMAGE](img/home4.jpeg)
 
-
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/watch?v=NrNuT8uKh5c&feature=youtu.be" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+Video: [Click for video](https://www.youtube.com/watch?v=NrNuT8uKh5c&feature=youtu.be) 
 
 ### Future directions 
 - Security: data encryption, authentication
